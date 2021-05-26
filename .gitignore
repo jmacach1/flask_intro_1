@@ -1,4 +1,5 @@
 venv
 *__pyache__*
 sample.db
+mydb.db
 .vscode
